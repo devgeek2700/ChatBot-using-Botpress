@@ -18,7 +18,7 @@ Follow these steps to set up and run the chatbot locally:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/faq-chatbot.git
+   git clone https://github.com/devgeek2700/ChatBot-using-Botpress.git
    ```
 
 2. **Install Dependencies:**
