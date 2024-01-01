@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 
 function Homepage() {
+
     return (
         <div>
             <div class="img">
@@ -13,9 +14,6 @@ function Homepage() {
                         <a href="#"> Login / Sign Up</a>
                     </div>
 
-                    <Link to="/Instruction" class="float">
-                        <i class="fa-solid fa-robot my-float"></i>
-                    </Link>
                     <div class="start">
                         <h2 class="title1"> ONLINE FORM BUILDER</h2>
                         <h1 class="title2">Easily create online forms.</h1>

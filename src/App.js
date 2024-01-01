@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import Homepage from './Homepage';
-import Instruction from './Instruction';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -13,10 +12,6 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: (<Homepage />),
-  },
-  {
-    path: "/Instruction",
-    element: (<Instruction />),
   },
 ]);
 
