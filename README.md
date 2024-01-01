@@ -37,6 +37,35 @@ Follow these steps to set up and run the chatbot locally:
 ## LIVE Project Link
 https://sciastra-chatbot.onrender.com
 
+## Questions that can be asked?
+1) tell me about SCIASTRA?
+2) what courses does sciastra offere for competitive exams?
+3) tell me more about the PhD and internship section on this website?
+4) what are academic resources are available on this website?
+5) can you provide information about sciastra's collaborations with institutions?
+6) how can i explore the courses and resources on sciastra?
+7) what are the achievements of sciastra ins tudent selections?
+8) how many slections has sciastra achieved in IISER bhopal?
+9) what exam analyses and resources are available on sciastra for IAT 2022 and NEST 2022?
+10) how can i connect with mentors on sciastra?
+11) does sciastra provide free study materials?
+12) what mock test are avaiable on this webiste for NEST and CEBS aspiranst?
+13) how can i reach out of sciastra for support or inquires?
+14) tell me more about the internship opportunities resources on this website?
+15) where the headquarters of sciastra located?
+16) can international students enroll in sciastra's courese?
+17) how can i access free mock test on sciastra?
+18) are there any success dtories available on sciastra's website?
+19) can i get insights into internship opportunities through sciastra?
+20) what are the recognitions of sciastras?
+21) what is the full form of IACS adn where it is?
+22) what are special features of this website?
+23) what is the purpose of "meet the mentors"?
+24) tell me about NISER?
+25) what are the specialized courses offered by sciastra for IISERs, NISER, ISI and other institutions?
+
+
+
 ## Screenshot
 
 ## Homepage 
