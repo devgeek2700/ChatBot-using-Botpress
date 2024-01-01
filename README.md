@@ -35,21 +35,21 @@ Follow these steps to set up and run the chatbot locally:
    Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access the Botpress admin interface.
 
 ## LIVE Project Link
-https://image-dashboardproject.onrender.com
+https://sciastra-chatbot.onrender.com
 
 ## Screenshot
 
-## Dashboard 
+## Homepage 
 
-![App Screenshot](https://github.com/devgeek2700/Image-Dashboard/blob/master/src/assets/OuputImages/o1.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/ChatBot-using-Botpress/blob/master/src/Output/o1.png?raw=true)
 
-## Popup Form to Create card
+## Chatbot Interface
 
-![App Screenshot](https://github.com/devgeek2700/Image-Dashboard/blob/master/src/assets/OuputImages/o2.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/ChatBot-using-Botpress/blob/master/src/Output/o2.png?raw=true)
 
-## Create card
+## Entire FQAs with Chatbot
 
-![App Screenshot](https://github.com/devgeek2700/Image-Dashboard/blob/master/src/assets/OuputImages/o3.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/ChatBot-using-Botpress/blob/master/src/Output/o3.png?raw=true)
 
 
 ## Usage
